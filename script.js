@@ -1,4 +1,13 @@
- /* Tic-Tac-Toe functions */
+
+
+// Hello Ambre. I liked your project. The implementation of objects method and the use of the this word
+// gave a better functionality to your code so well done on this. Well implemented the reset fo the game.
+// Your project is also using event listeners in the correct way.
+//  I also liked the styling of your page.
+// In general very well done. keep with the good job.
+
+
+/* Tic-Tac-Toe functions */
 var TicTacToe = {
     /* initialize the Tic-Tac-Toe variables */
     init: function() {
